@@ -10,3 +10,5 @@ new Vue({
   store,
   render: h => h(App)
 }).$mount('#app')
+
+window.cur_pos_y = 0
